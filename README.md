@@ -1,2 +1,2 @@
-# market
-Play with Apple MapKit
+# MapKit
+Repo to support my experimentation with Apple MapKit 
